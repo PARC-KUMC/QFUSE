@@ -226,10 +226,8 @@ Relative to Philips DXL, QFUSE-ECG reduced average MAE across the six fiducials 
 
 The manuscript describes the algorithm but does not specify the final repository package structure or dependency list.
 
-Once the repository layout is finalized, replace this section with the exact installation command, for example:
-
 ```bash
-git clone https://github.com/<USER_OR_ORG>/QFUSE-ECG.git
+git clone https://github.com/PARC-KUMC/QFUSE.git
 cd QFUSE-ECG
 pip install -r requirements.txt
 ```
